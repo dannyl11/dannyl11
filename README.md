@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Danny Li. I'm studying Statistics and Machine Learning at Carnegie Mellon with a minor in Computational Finance. I'm looking for roles in Sales and Trading, Risk Modeling/Management, Portfolio Analytics, and other roles combining my passions for finance, economics, data science, and programming. 
 
 <!--
 **dannyl11/dannyl11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
