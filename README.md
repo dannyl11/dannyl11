@@ -2,6 +2,12 @@
 
 I'm studying Statistics and Machine Learning at Carnegie Mellon with a minor in Computational Finance. I'm looking for roles in Sales and Trading, Risk Modeling/Management, Portfolio Analytics, and other roles combining my passions for finance, economics, data science, and programming. 
 
+Past projects of mine are:
+- Logistic Regression NBA sports betting model
+- StatArb trading strategy
+- Portfolio Optimization web application
+- Financial data and news app (CMU 15-112 Final Project)
+- Statistical inference case study on scheduling effects for NBA teams. 
 <!--
 **dannyl11/dannyl11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
